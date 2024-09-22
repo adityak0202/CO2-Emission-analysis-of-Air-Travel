@@ -6,3 +6,5 @@ I have even plotted a map, which visualizes the flights as lines on a global map
 A fun little project to practice from.
 
 Tools used: Jupyter Notebooks, Pandas, NumPy, Matplotlib, Excel.
+
+PS: I might have scraped a small amount of data for IATA codes. Sorry, GCMap :x
